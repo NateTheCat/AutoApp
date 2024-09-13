@@ -1,0 +1,21 @@
+{
+  //Required stuff
+
+  "manifest_version": 3,
+  "name": "AutoApp",
+  "version": "0.1.0",
+
+  //Other shit
+
+  "description": "Job application autofill extension to save time from shitty resume parsers and companies that refuse to implement 'Apply with LinkedIn' options.",
+
+  /* FOR ICONS TO BE ADDED EVENTUALLY
+  "icons":
+  {
+    "16": "icon16.png",
+    "32": "icon32.png",
+    "48": "icon48.png",
+    "128": "icon128.png"
+  },*/
+
+}
